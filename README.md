@@ -10,7 +10,7 @@ In this work, we investigate the hypothesis that the existence of adversarial pe
 
 [[Webpage](https://adrianrm99.github.io/_pages/aliasing_is_a_driver/)] 
 [[Paper](https://adrianrm99.github.io/_pages/aliasing_is_a_driver/files/paper.pdf)]
-[arXiv](https://arxiv.org/abs/2212.11760)
+[[arXiv](https://arxiv.org/abs/2212.11760)]
 
 # Requirements
 
